@@ -87,3 +87,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 
 Making changes for the codegrade, realized I forgot to set up the webhook and jazz before doing the sprint!
+making more changes, webhook is being silly
